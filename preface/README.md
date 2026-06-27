@@ -1,7 +1,7 @@
 ---
 title: 前言
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/RcqrwFWKCiHGqxk6BlPc4G7dnWg"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 一次临床读出，抹掉半个公司

@@ -2,8 +2,8 @@
 title: 第 24 章　印度：强制许可与价格管制的逻辑
 data_cutoff: "2026-05"
 disclaimer: true
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/IJiOwphSZiYbbskbLNpc3n5cnjb"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 一个月二十八万卢比，砍到八千八

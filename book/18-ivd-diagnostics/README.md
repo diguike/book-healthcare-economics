@@ -2,8 +2,8 @@
 title: 第 18 章　试管里的现金流：IVD 与中国式集采悬崖
 disclaimer: true
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/PZEFwyditiEZJ9ktO3wcOap7nph"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

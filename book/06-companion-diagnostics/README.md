@@ -2,8 +2,8 @@
 title: 第 6 章　先验药、再开药：一张试纸决定一款药卖给谁
 disclaimer: true
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/Ygq8w435nie9aCk4zcMc2ROwndd"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

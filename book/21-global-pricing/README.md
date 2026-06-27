@@ -2,8 +2,8 @@
 title: 第 21 章　价格由谁定：五国定价权的横切
 disclaimer: false
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/InvgwvDmniLGXuk5TEMcP1Qzngh"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

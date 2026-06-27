@@ -2,8 +2,8 @@
 title: 第 16 章　砍价与托底：中国医保谈判、丙类目录与可持续性
 disclaimer: true
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/SE7dw6MviiMBgCkZ8OgcXOLHndf"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

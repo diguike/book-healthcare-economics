@@ -2,8 +2,8 @@
 title: 第 13 章　真正的利润池：健康险与纵向一体化
 disclaimer: true
 data_cutoff: "2026-06"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/Gi3MwiPFOidxqZkYjhhcKBsTn1d"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 把一家公司的市值摊开

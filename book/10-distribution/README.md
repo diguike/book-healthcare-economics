@@ -2,8 +2,8 @@
 title: 第 10 章　薄利江湖：分销、两票制与 340B
 disclaimer: false
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/YXMwwkMooi972mkOdFWcHYNPnYg"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

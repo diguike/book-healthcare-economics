@@ -2,8 +2,8 @@
 title: 第 8 章　隐形的咽喉：CXO 与医药代工
 disclaimer: true
 data_cutoff: "2026-06"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/ESdZw0gxsiIBmJk4VvrcrQCmnRd"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 # 第 8 章　隐形的咽喉：CXO 与医药代工

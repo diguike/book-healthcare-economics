@@ -2,8 +2,8 @@
 title: 第 28 章　好生意不等于好股票：可投资性、细分赛道与工具
 disclaimer: true
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/BTRjwunHji9VkIk7K3ucr7gWnMc"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

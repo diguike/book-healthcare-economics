@@ -2,8 +2,8 @@
 title: 第 17 章　没有悬崖的护城河：器械的剃须刀与刀片
 disclaimer: true
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/MHupwKsTjiFyYBki758cGVRonxd"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

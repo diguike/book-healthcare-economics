@@ -2,8 +2,8 @@
 title: 第 5 章　从化学药到“生物导弹”：药都有哪些种类
 disclaimer: true
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/PU3swdSUfi2nXRkd5HVc83utn7d"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

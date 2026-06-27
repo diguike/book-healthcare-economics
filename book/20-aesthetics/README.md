@@ -2,8 +2,8 @@
 title: 第 20 章　为美买单：医美是医疗里最像消费品的生意
 data_cutoff: "2026-05"
 disclaimer: true
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/InkJwmQmEiJ8SmkuN9NcBLKqnxg"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

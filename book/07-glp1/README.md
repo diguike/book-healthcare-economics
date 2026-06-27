@@ -2,8 +2,8 @@
 title: 第 7 章　一支减重针的统治：GLP-1 如何改写药王格局
 data_cutoff: "2026-05"
 disclaimer: true
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/PKSvwUGliiKgcVkdPs8c5AVanob"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

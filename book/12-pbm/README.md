@@ -2,8 +2,8 @@
 title: 第 12 章　看门人：PBM 与美国药价的隐形之手
 disclaimer: true
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/DtMiwC47TiDTmgk2SQich5ppnsf"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

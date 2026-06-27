@@ -2,8 +2,8 @@
 title: 第 19 章　防患于未然的生意：疫苗为什么是少见的"预防性爆款"
 data_cutoff: "2026-05"
 disclaimer: true
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/TUHHw8zGViECxikjVNLcPTzjnZb"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

@@ -1,8 +1,8 @@
 ---
 title: 第 2 章　会失灵的市场：医疗作为经济部门
 disclaimer: false
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/Cy17wXIBniVTP9kKa7tcqpeVntb"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

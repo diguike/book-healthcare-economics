@@ -1,8 +1,8 @@
 ---
 title: 第 3 章　十年、十亿、九死一生：一款新药是怎么造出来的
 disclaimer: false
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/L9ucwFbpBi4gkCk0MVDceJBJn1f"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

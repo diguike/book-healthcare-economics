@@ -1,8 +1,8 @@
 ---
 title: 第 27 章　给创新定价：rNPV、SOTP 与估值工具箱
 disclaimer: true
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/OoCRwJvWtiHgEmkCA52cN3sMnFh"
+last_synced: "2026-06-27T16:23:52+08:00"
 data_cutoff: "2026-05"
 ---
 

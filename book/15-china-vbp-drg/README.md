@@ -2,8 +2,8 @@
 title: 第 15 章　三道闸门：中国的集采、DRG/DIP 与零加成
 disclaimer: true
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/Wjz5wlCHCiT1pgkAZErchPZgnVb"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

@@ -2,8 +2,8 @@
 title: 第 9 章　薄利与壁垒：原料药、仿制药与生物类似药
 data_cutoff: "2026-05"
 disclaimer: true
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/KlVJwOqKuiVLXDkIG77cSOV5nDc"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 两个数字之间的鸿沟

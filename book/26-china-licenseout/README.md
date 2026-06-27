@@ -1,8 +1,8 @@
 ---
 title: 第 26 章　出海的真相：中国创新药、首付款与议价权
 disclaimer: true
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/Cfxew4ccGiKeBdk8hc4cx0b9nbd"
+last_synced: "2026-06-27T16:23:52+08:00"
 data_cutoff: "2026-05"
 ---
 

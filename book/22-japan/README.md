@@ -2,8 +2,8 @@
 title: 第 22 章　日本：政府定价下的 price taker
 disclaimer: true
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/MbdnwpN2AiaiPvkzuaMcxTiEnxh"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 卖得越好，砍得越狠

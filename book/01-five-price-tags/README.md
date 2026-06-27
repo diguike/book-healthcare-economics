@@ -2,8 +2,8 @@
 title: 第 1 章　一支减重针的五张价签
 data_cutoff: "2026-05"
 disclaimer: false
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/J32gwCgjuit7gvkJ7MJcjU8hnVc"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 同一支针，五个价

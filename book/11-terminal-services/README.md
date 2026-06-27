@@ -2,8 +2,8 @@
 title: 第 11 章　终端的生意：医院、药房与第三方检验
 disclaimer: true
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/L2yTw9zDxiNBIfksCdkcXfhfnmf"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

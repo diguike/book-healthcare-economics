@@ -1,8 +1,8 @@
 ---
 title: 第 29 章　不确定的处方：未决变量与本书的失效条件
 disclaimer: false
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/G7PxwZcCJikQGBkPpIycjjFmnUh"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

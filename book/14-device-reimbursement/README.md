@@ -2,8 +2,8 @@
 title: 第 14 章　入场券：美国器械报销码与按病种付费
 disclaimer: false
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/I4S6wwW96i2cSLkkAWhcjCvBnVf"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

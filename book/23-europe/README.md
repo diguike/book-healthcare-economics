@@ -2,8 +2,8 @@
 title: 第 23 章　欧洲：为一年健康生命标价
 disclaimer: false
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/UHMwwM8Kri7RJ1k1tULcOT7wnEf"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 本章概览

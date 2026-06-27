@@ -1,8 +1,8 @@
 ---
 title: 第 25 章　潮汐与重力：biotech 融资周期与专利悬崖墙
 disclaimer: true
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/CTafwNqMgiQaw3kUit3cR0HUnvh"
+last_synced: "2026-06-27T16:23:52+08:00"
 data_cutoff: "2026-05"
 ---
 

@@ -2,8 +2,8 @@
 title: 第 4 章　临床试验：药企最贵的一场豪赌
 disclaimer: true
 data_cutoff: "2026-05"
-feishu_url: ""
-last_synced: ""
+feishu_url: "https://fivwvysqdz.feishu.cn/wiki/KTOawKaUFivPkMkAGBqcMhBFnte"
+last_synced: "2026-06-27T16:23:52+08:00"
 ---
 
 ## 一条读数，半个公司
