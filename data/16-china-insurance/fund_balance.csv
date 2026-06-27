@@ -1,0 +1,10 @@
+scheme_cn,scheme_en,scope,fund_type,metric_cn,value_yi_cny,fiscal_year,caliber_note,source
+职工医保,Employee basic medical insurance,全国,统筹基金,当期结存,4119.75,2024,在职职工+单位缴费、缴费基数随工资增长、盘子厚,国家医保局2024统计公报(2025-07)
+职工医保,Employee basic medical insurance,全国,统筹基金,累计结存,30445.50,2024,职工医保统筹基金累计结存,国家医保局2024统计公报(2025-07)
+居民医保,Resident basic medical insurance,全国,基金（统收统支）,基金收入,11180.91,2024,城乡居民、个人缴费+财政补助、靠财政补助托底,国家医保局2024统计公报(2025-07)
+居民医保,Resident basic medical insurance,全国,基金（统收统支）,基金支出,10661.49,2024,支出已吃掉收入约95%,国家医保局2024统计公报(2025-07)
+居民医保,Resident basic medical insurance,全国,基金（统收统支）,当期结存,519.42,2024,结余率不到5%、远薄于职工,国家医保局2024统计公报(2025-07)
+居民医保,Resident basic medical insurance,全国,基金（统收统支）,累计结存,8183.02,2024,累计结存远薄于职工医保,国家医保局2024统计公报(2025-07)
+全国基本医保,National basic medical insurance,全国,统筹基金,当期结存,4639.17,2024,含生育保险、全国口径收支平衡略有结余,国家医保局2024统计公报(2025-07)
+全国基本医保,National basic medical insurance,全国,统筹基金,累计结存,38628.52,2024,全国统筹基金累计结存,国家医保局2024统计公报(2025-07)
+单城/学术模型示例,Single-city/academic model,单城（非全国，禁外推）,城乡居民医保,城市级当期缺口测算,NA,多为2020s学术模型,单城/特定城市学术模型、本书不引用具体金额、严禁外推全国、未找到2025全国权威赤字预测,research阶段PMC学术口径(未独立复核)

@@ -1,0 +1,75 @@
+# === AI 协作上下文与内部元数据（绝不开源）===
+CLAUDE.md
+.claude/
+HANDOFF.md
+*.handoff.md
+session-*.md
+# 书籍内部状态机元数据（含 stage / 评分 / review / fact_check 备注）
+book.meta.yaml
+
+# 调研产物（不进 git，仅用于写作上下文）
+research/
+
+# 目录候选迭代过程（仅 SUMMARY.md 进 git）
+toc/
+
+# book-writer pipeline 的中间产物
+verify-report.yaml
+verify-report.md
+review-final.md
+
+# 数据原始抓取层（体积大、可能涉版权，只 commit 整理后的精简版）
+data/*/raw/
+data/*/cache/
+
+# Excel 临时锁文件
+data/**/~$*.xlsx
+data/**/.~lock.*
+
+# 私人持仓 / 财务计算工作表（如有）
+**/private/
+**/personal-portfolio*
+
+# Node / TS（如 data/ 下有 JS 工具）
+node_modules/
+**/node_modules/
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# Python 工具临时（如果 data/ 下有 Python 数据处理脚本）
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 环境变量（如有调用 API 抓数据）
+.env
+.env.local
+.env.*.local
+
+# 日志
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# === 本项目（《医疗经济学》）特有：事实核查报告 ===
+fact-check*.md
+fact-check*.yaml
+
+# === 本项目（《医疗经济学》）特有：分章 verify-report + watermark 报告 ===
+verify-report-*.md
+verify-report-*.yaml
+watermark-report.md
+
+# === 预测/估值实验快照（内部，不开源）===
+experiments/

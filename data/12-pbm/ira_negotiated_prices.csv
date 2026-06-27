@@ -1,0 +1,13 @@
+round,drug_brand,generic,manufacturer,indication,list_price_2023_30day_usd,mfp_2026_30day_usd,discount_off_list_pct,price_basis,effective_date,announce_date,verified,source
+1,Januvia,sitagliptin,Merck,2型糖尿病,527,113,79,相对2023列表价（非净价）,2026-01-01,2024-08-15,verified,"CMS Selected Drugs & Negotiated Prices；ASPE/PSG（79%为10药中最大折扣）"
+1,Eliquis,apixaban,BMS/Pfizer,抗凝/防血栓,521,231,56,相对2023列表价（非净价）,2026-01-01,2024-08-15,verified,"CMS fact sheet 2024-08-15"
+1,Xarelto,rivaroxaban,J&J(Janssen),抗凝/防血栓,517,197,62,相对2023列表价（非净价）,2026-01-01,2024-08-15,verified,"CMS fact sheet 2024-08-15"
+1,Imbruvica,ibrutinib,AbbVie/J&J,血液肿瘤,NA,NA,38,相对2023列表价（非净价）,2026-01-01,2024-08-15,verified,"CMS/ASPE：38%为10药中最小折扣（其净价降幅可能反而最大）；30天价绝对值本表未单独核"
+1,Jardiance,empagliflozin,Boehringer/Lilly,2型糖尿病/心衰,NA,NA,NA,相对2023列表价（非净价）,2026-01-01,2024-08-15,partial,"在10药名单内，折扣位于38–79%区间；逐药绝对值本表未核"
+1,Farxiga,dapagliflozin,AstraZeneca,2型糖尿病/心衰/CKD,NA,NA,NA,相对2023列表价（非净价）,2026-01-01,2024-08-15,partial,"在10药名单内；逐药绝对值本表未核"
+1,Entresto,sacubitril/valsartan,Novartis,心衰,NA,NA,NA,相对2023列表价（非净价）,2026-01-01,2024-08-15,partial,"在10药名单内；逐药绝对值本表未核"
+1,Enbrel,etanercept,Amgen,类风湿/自免,NA,NA,NA,相对2023列表价（非净价）,2026-01-01,2024-08-15,partial,"在10药名单内；逐药绝对值本表未核"
+1,Stelara,ustekinumab,J&J,克罗恩/银屑病,NA,NA,NA,相对2023列表价（非净价）,2026-01-01,2024-08-15,partial,"在10药名单内；逐药绝对值本表未核"
+1,Fiasp/NovoLog,insulin aspart,Novo Nordisk,糖尿病胰岛素,NA,NA,NA,相对2023列表价（非净价）,2026-01-01,2024-08-15,partial,"在10药名单内；逐药绝对值本表未核"
+2,Ozempic/Wegovy/Rybelsus,semaglutide,Novo Nordisk,糖尿病/减重,NA,NA,NA,相对列表价（MFP2025-11公布、本表未核）,2027-01-01,2025-01-17,partial,"第二批15药；本组2023-11至2024-10占Part D毛支出约407亿美元(约14%)；逐药价本表未核"
+2_set,第二批15药合计,multiple,multiple,多适应症,NA,NA,NA,—,2027-01-01,2025-01-17,verified,"CMS：15药合计约407亿美元Part D毛支出(约14%)；含Xtandi/Ibrance/Calquence等；2025-03-14完成与全部15家厂商签约"

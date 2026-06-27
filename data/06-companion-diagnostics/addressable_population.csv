@@ -1,0 +1,5 @@
+drug_brand,drug_generic,target,gate_type,biomarker,addressable_logic,sales_figure_usd,sales_period,sales_note,source_ref
+Keytruda,pembrolizumab,PD-1,soft(软门),PD-L1(+MSI-H泛瘤种),软门连续富集+几十个适应症横向拼接,31.7B,FY2025,全年;占默沙东药品销售约55%;独占至2028,S4
+Opdivo,nivolumab,PD-1,soft(软门),PD-L1,同靶点但2016一线NSCLC标志物宽赌注失利,约10B,FY2025(估),上半年4.8B(+8%);全年精确值以BMS FY25财报为准,S5
+Tagrisso,osimertinib,EGFR,hard(硬门),EGFR mutation,硬门二元;阳性率随人种(东亚高西方低),7.3B,FY2025,阿斯利康FY2025口径(research),R2
+Lumakras,sotorasib,KRAS G12C,hard(硬门),KRAS G12C,硬门二元;NSCLC约13%且主要二线,350M,FY2024,全年+25%(2023为280M);Q4 85M,S7

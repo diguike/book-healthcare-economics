@@ -1,0 +1,25 @@
+company,ticker,fiscal_year,period_end,metric,value,yoy_growth,unit,note,source,source_date
+Intuitive Surgical,ISRG,FY2025,2025-12-31,total_revenue,10.06,+21%,USD_billion,全年总收入,Intuitive 2025 Q4及全年初步业绩公告,2026-01
+Intuitive Surgical,ISRG,FY2025,2025-12-31,instruments_accessories_revenue,6.02,+19%,USD_billion,I&A耗材收入(刀片),Intuitive 2025 Q4及全年初步业绩公告,2026-01
+Intuitive Surgical,ISRG,FY2025,2025-12-31,ia_share_of_total,~60,,percent,I&A占总收入比(6.02/10.06),计算,2026-01
+Intuitive Surgical,ISRG,FY2025,2025-12-31,da_vinci_installed_base,11106,+12%,systems,全球达芬奇装机量(对比上年9902),Intuitive 2025 Q4及全年初步业绩公告,2026-01
+Intuitive Surgical,ISRG,Q4FY2025,2025-12-31,ia_revenue_q4,1.66,+17%,USD_billion,Q4 I&A收入,Intuitive 2025 Q4及全年初步业绩公告,2026-01
+Intuitive Surgical,ISRG,FY2025,2025-12-31,gross_margin,~67,,percent,公司整体毛利率(约,research口径待核),research/devices-ivd,2026-06
+Intuitive Surgical,ISRG,FY2025,2025-12-31,ia_per_installed_system,~0.573,,USD_million_per_system,每台在装达芬奇年贡献I&A(6.02B/均值1.05万台,作者测算非公司口径),作者据公司披露测算,2026-01
+Intuitive Surgical,ISRG,FY2025,2025-12-31,ia_growth_decomposition,19,,percent,I&A增速19%≈装机存量+12%×单机手术强度+6%(作者测算),作者据公司披露测算,2026-01
+Boston Scientific,BSX,FY2025,2025-12-31,electrophysiology_revenue,~3.3,+73%有机,USD_billion,电生理业务全年收入(有机增长约73%),Boston Scientific FY2025业绩与财报电话会,2026-02-04
+Boston Scientific,BSX,Q4FY2025,2025-12-31,electrophysiology_growth_q4,,+35%有机,percent,Q4电生理同比有机增长(增速逐季回落),Boston Scientific 财报电话会,2026-02-04
+Boston Scientific,BSX,FY2024,2024-12-31,farapulse_revenue,>1.0,,USD_billion,Farapulse上市不到一年破10亿,MedTech Dive,2025-01
+Boston Scientific,BSX,FY2025,2025-12-31,pfa_share_af_ablation_US,~70,,percent,美国房颤消融用PFA比例(管理层口径),Boston Scientific 财报电话会,2026-02-04
+Boston Scientific,BSX,FY2025,2025-12-31,pfa_share_af_ablation_global,~50,,percent,全球房颤消融用PFA比例(管理层口径),Boston Scientific 财报电话会,2026-02-04
+Medtronic,MDT,FY2025,2025-04-25,total_revenue,33.537,+3.6%,USD_billion,全年营收(4月财年),Medtronic FY25 Q4业绩公告,2025-05-21
+Medtronic,MDT,FY2025,2025-04-25,gaap_operating_margin,17.8,,percent,GAAP营业利润率,Medtronic FY25 Q4业绩公告,2025-05-21
+Medtronic,MDT,FY2025,2025-04-25,cardiac_ablation_revenue,1.0,,USD_billion,心脏消融业务收入(Q4同比近+30% PFA拉动),Medtronic FY25 Q4业绩公告,2025-05-21
+Stryker,SYK,FY2024,2024-12-31,orthopaedics_revenue,9.1,+8.9%,USD_billion,骨科业务收入,Stryker 2024全年业绩公告,2025-01-28
+Stryker,SYK,FY2024,2024-12-31,medsurg_neuro_revenue,13.5,+11.1%,USD_billion,MedSurg与神经技术业务收入,Stryker 2024全年业绩公告,2025-01-28
+Stryker,SYK,FY2024,2024-12-31,gross_margin,~64,,percent,公司整体毛利率,Stryker 2024业绩/第三方,2025-01
+迈瑞医疗,300760.SZ,FY2024,2024-12-31,total_revenue,367.26,+5.14%,CNY_yi,全年总营收,迈瑞医疗2024年报,2025-04
+迈瑞医疗,300760.SZ,FY2024,2024-12-31,ivd_revenue,137.65,+10.82%,CNY_yi,IVD业务收入(已成第一大板块),迈瑞医疗2024年报,2025-04
+迈瑞医疗,300760.SZ,FY2024,2024-12-31,net_profit,116.68,+0.74%,CNY_yi,归母净利润,迈瑞医疗2024年报,2025-05
+联影医疗,688271.SS,FY2024,2024-12-31,total_revenue,103.0,-9.73%,CNY_yi,全年营收(上市以来首降),联影医疗2024年报,2025-03
+联影医疗,688271.SS,FY2024,2024-12-31,net_profit,12.62,-36.08%,CNY_yi,归母净利润,联影医疗2024年报,2025-03

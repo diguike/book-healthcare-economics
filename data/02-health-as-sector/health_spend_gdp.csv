@@ -1,0 +1,13 @@
+economy,health_spend_pct_gdp,caliber,caliber_en,year,source,note
+United States,17.2,经常性卫生支出,Current Health Expenditure (OECD comparable),2024,OECD Health at a Glance 2025,跨国可比口径
+United States,17.6,国民卫生支出,National Health Expenditure (CMS NHE),2023,CMS NHE 2023 Highlights (2024-12),总额约4.9万亿美元/人均约14570美元
+United States,18.0,国民卫生支出,National Health Expenditure (CMS NHE),2024,Peterson-KFF Health System Tracker 引 CMS NHE (2025),总额约5.3万亿美元/人均约15474美元
+Germany,12.3,经常性卫生支出,Current Health Expenditure,2024,OECD Health at a Glance 2025,country note原文12.3%
+France,11.5,经常性卫生支出,Current Health Expenditure,2024,OECD Health at a Glance 2025,country note原文11.5%
+United Kingdom,11.1,经常性卫生支出,Current Health Expenditure,2024,OECD Health at a Glance 2025,country note原文11.1%
+Japan,10.6,经常性卫生支出,Current Health Expenditure,2024,OECD Health at a Glance 2025,country note原文10.6%;日本3月财年
+Korea,9.6,经常性卫生支出,Current Health Expenditure,2024,OECD Health at a Glance 2025,约值-待fact-check精确值
+OECD average,9.3,经常性卫生支出,Current Health Expenditure,2024,OECD Health at a Glance 2025,38成员国平均
+China,7.2,卫生总费用,Total Health Expenditure (THE),2023,国家卫生健康委员会口径,与Statista/世界银行序列一致;含资本性支出口径偏宽
+China,5.4,经常性卫生支出,Current Health Expenditure (CHE),2022,世界银行 World Development Indicators,OECD可比口径;与9.3%同尺
+India,3.3,经常性卫生支出,Current Health Expenditure (CHE),2022,世界银行 World Development Indicators,约值-待fact-check精确值

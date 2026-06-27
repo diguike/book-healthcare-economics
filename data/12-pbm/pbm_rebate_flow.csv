@@ -1,0 +1,9 @@
+stage,party,role,amount_per_100_list_usd,share_of_list_pct,note
+1_list_price,药企（manufacturer）,设定列表价（WAC/list price，挂牌价）,100.00,100.0,"列表价是药企单方设定的名义价，并非任何人实际收到/支付的价；示意以 100 美元为基数"
+2_gross_to_net_out,药企→返利与折扣流出,药企让出的 gross-to-net 折让总额,-50.00,-50.0,"高返利品牌药净价常为列表价的 30–60%；2023 全美品牌药 gross-to-net 折让总额达 3340 亿美元（Drug Channels/IQVIA），示意取 50%"
+3a_rebate_to_plan,计划/雇主（plan sponsor）,PBM 把大部分返利返还给雇主/保险计划,38.00,38.0,"返利名义上属于计划方，用于压低保费；占让出额的大头，但口径不透明"
+3b_pbm_retained,PBM,返利自留 + 管理费 + 价差（spread）,6.00,6.0,"PBM 收入藏在返利留存比例、spread pricing、专科药房加价；FTC 2025-01 二次报告：三大 PBM 2017–2022 仅 51 种专科仿制药加价就获 73 亿美元收入、spread 另获约 14 亿美元"
+3c_other_discounts,340B/Medicaid 等,法定折扣渠道分走,6.00,6.0,"340B、Medicaid 强制回扣等其他法定折让，单独成机制（见第 10 章 340B）"
+4_pharmacy_distribution,药房+分销,调配与物流加价,4.00,4.0,"零售药房调配费 + 分销搬运费，薄利（见第 10 章分销 1–3% 经营利润率）"
+5_manufacturer_net,药企最终净收入,扣除全部折让后药企实得净价,46.00,46.0,"= 列表价 − gross-to-net 折让 − 流通加价口径调整；示意值，真实净价因药因合同差异大"
+6_patient_coshare_on_list,患者自付,自付按列表价而非净价计算,20.00,20.0,"关键扭曲：未达自付封顶/处于免赔额阶段的患者，coinsurance 常按列表价 100 计、而非净价 46 计——返利越高、患者账面自付越高"

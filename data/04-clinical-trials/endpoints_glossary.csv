@@ -1,0 +1,22 @@
+term_cn,term_en,abbr,category,definition_cn,note_cn
+总生存期,Overall Survival,OS,硬终点,从随机分组到因任何原因死亡的时间,金标准硬终点；监管最看重，但需随访久、成本高
+无进展生存期,Progression-Free Survival,PFS,替代终点,从分组到肿瘤进展或死亡的时间,肿瘤常用；比 OS 早出结果，但不等于患者活更久
+客观缓解率,Objective Response Rate,ORR,替代终点,肿瘤明显缩小（达预设标准）的患者比例,单臂试验常用；缓解≠延长生存
+风险比,Hazard Ratio,HR,效应量,治疗组相对对照组在任一时点发生事件的瞬时风险之比,HR<1 获益，HR=1 无差别；需看 95%CI 是否跨过 1
+用力肺活量,Forced Vital Capacity,FVC,替代终点,用力呼气测得的肺活量，衡量肺功能,IPF 等肺病核心指标；变化以 mL 计
+95%置信区间,95% Confidence Interval,95%CI,统计,真实效应有约95%概率落入的区间,区间跨过无效线则不显著；区间越宽越不确定
+统计显著,Statistical Significance,-,统计,差异不太可能由随机噪声造成,看 p<0.05 或 95%CI 是否跨无效线；与临床意义是两回事
+临床意义,Clinical Significance,-,临床,差异对患者是否真的重要,可统计显著但临床意义有限，反之亦然
+注册性试验,Pivotal Trial,-,试验设计,监管据以批准上市的关键试验,通常为三期随机对照；与探索性二期权重差一个量级
+中期分析,Interim Analysis,-,试验设计,事件数未攒满时的提前分析,可能因随访不足而高估或反转，需标 interim
+顶线数据,Top-line Results,-,披露,试验主要结果的首批简要披露,先于完整论文/会议数据；股价最敏感节点
+成功概率,Probability of Success,PoS,估值,某项目最终获批的概率,等同 LOA；必须按适应症+模态分层，不套行业均值
+获批可能性,Likelihood of Approval,LOA,估值,从某一期算起最终获批的累计概率,BIO 口径全行业 Phase1 起约7.9%
+替代终点,Surrogate Endpoint,-,终点类型,用更早更易测的指标代理临床获益,赌它能预测硬终点；加速审批常用
+硬终点,Hard Endpoint,-,终点类型,直接衡量患者活更久或更好的指标,如 OS；证据最强但最慢
+加速审批,Accelerated Approval,-,监管通道,基于替代终点先获批、上市后补确证试验,FDA 1992 设立；确证失败可被撤市
+确证性试验,Confirmatory Trial,-,监管通道,加速审批后用以验证真实临床获益的试验,失败则维持批准的前提不成立
+真实世界证据,Real-World Evidence,RWE,证据类型,来自日常诊疗/理赔等非试验环境的数据,用于补充确证、上市后再评价
+新药临床研究审批,Investigational New Drug,IND,监管文件,获准在人体开展临床试验的申请,通过后方可进入一期
+新药上市申请,New Drug Application,NDA,监管文件,小分子药的上市申请,对应生物药的 BLA
+生物制品上市申请,Biologics License Application,BLA,监管文件,生物药（抗体/疫苗等）的上市申请,与 NDA 并列，模态不同

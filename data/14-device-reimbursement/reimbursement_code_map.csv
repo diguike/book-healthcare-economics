@@ -1,0 +1,5 @@
+path,setting,payment_system,grouping_unit,who_gets_paid,coding_system,payment_logic,device_cost_treatment,new_tech_addon,addon_max_years,key_example,source
+住院,inpatient hospital,IPPS（住院预付费系统）,MS-DRG（医保严重程度诊断相关组）,医院（设施费）,ICD-10-PCS 操作码 + MS-DRG 分组,相对权重 × 医院费率 = 每次出院一口价打包,默认含在打包价内（医院成本，非收入）；除离群值 outlier 外不另付,NTAP（新技术附加支付）,3,AeroPace 膈肌起搏每例 NTAP 上限 $23650.90（FY2026）,CMS New Tech NTAP 页 / Lungpacer 2025-08-14 公告 / CMS MS-DRG 页
+门诊,outpatient hospital,OPPS（门诊预付费系统）,APC（门诊支付分类）,医院（设施费）,CPT/HCPCS 操作码 → APC 分组,按 APC 组打包付一口价,默认含在 APC 打包价内（医院成本，非收入）,transitional pass-through（过渡性穿透支付）+ 新技术 APC,3,穿透支付付"器械成本超 APC 部分"，至少2年最多3年后并入 OPPS,CMS Pass-Through / New Technology APC 页
+医生,physician professional,PFS（医生费用表）,CPT 码 × RVU（相对价值单位）,医生本人（专业费）,CPT（HCPCS Level I，AMA 维护）,RVU × 转换因子 = 专业劳务费，与设施费分开计算,不付器械本身，只付医生劳务,无器械 NTAP（属设施端机制）,NA,根治性前列腺切除：医生用 55866，含机器人辅助不另付,CMS PFS 制度 / AAPC CPT 55866 释义
+对照-机器人辅助,inpatient/outpatient,IPPS 或 OPPS,并入基础术式 DRG/APC,医院（设施费）,基础腹腔镜 CPT 码（如 55866 含机器人辅助）；S2900 不可单独付费,按基础术式打包付费，机器人辅助不另付,机器人设备折旧+耗材全为医院成本，零增量 Medicare 付费,无（机器人辅助本身无独立加成）,NA,da Vinci 机器人手术与普通腹腔镜同码同价（设施费层面）,Intuitive da Vinci 编码报销指南 / AAPC 机器人编码 / Moda·Providence 商保政策

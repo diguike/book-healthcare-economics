@@ -1,0 +1,9 @@
+modality,modality_cn,production_method,production_difficulty,molecule_gross_margin_in_patent,generic_form,patent_cliff_shape,representative_drug,representative_target_mechanism,source_note
+small_molecule,化学小分子,化学合成,低,90%+(分子级),仿制药(ANDA/一致性评价),陡坡(断崖),Lipitor(atorvastatin),HMG-CoA还原酶抑制剂/降脂,S9;F1毛利口径=分子级非公司blended
+targeted_small_molecule,靶向小分子,化学合成,低中,90%+(分子级),仿制药,陡坡(断崖),激酶抑制剂类,激酶抑制/抗肿瘤,S9;同小分子悬崖形状
+mab,抗体(单抗),哺乳动物细胞表达,高,高(生物药),生物类似药(biosimilar),缓坡,Keytruda(pembrolizumab),PD-1抑制剂/多癌种,R1;节奏由PBM处方集定(E5)
+bispecific,双抗,哺乳动物细胞表达,高,高,生物类似药(更难),缓坡,(T细胞衔接类),双特异性/同抓两靶点,R1;工艺壁垒高于单抗
+adc,抗体偶联ADC,抗体表达+偶联工艺,很高,高,生物类似药(门槛最高),缓坡+工艺壁垒,Enhertu(trastuzumab deruxtecan),HER2+DXd拓扑异构酶I抑制剂/乳腺癌,S1-S4;G10平台质量=出海命门
+cgt,细胞基因治疗CGT,自体细胞改造/病毒载体,极高,一次性(无复购),仿制极难,无传统悬崖(一次性定价),Carvykti(cilta-cel)/Casgevy/Zolgensma,BCMA CAR-T/CRISPR/AAV,S5-S6;百万美元级定价+产能瓶颈
+rlt,放射性配体RLT,同位素标记+冷链配送,高(供应链),中高,仿制受同位素供应限制,无分子悬崖(供应链护城河),Pluvicto(Lu-177 vipivotide tetraxetan),PSMA靶向/前列腺癌,S7;同位素半衰期短需就近生产
+mrna,mRNA,核酸合成+脂质纳米颗粒,中高(平台化),中高,平台型,平台价值待验证,(个体化肿瘤新抗原疫苗),信使RNA指导细胞造蛋白,research;新冠后转非新冠管线/多为预测

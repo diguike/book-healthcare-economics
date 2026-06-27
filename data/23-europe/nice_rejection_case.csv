@@ -1,0 +1,4 @@
+drug_brand,drug_inn,indication,maker,regulator_approval,regulator_date,nice_decision,nice_decision_date,clinical_benefit,icer_estimate_eur_per_qaly,wtp_threshold_eur,outcome,source,time_point
+Leqembi,lecanemab,早期阿尔茨海默病,Eisai/Biogen,MHRA 批准上市,2024-08-22,NICE 最终草案不推荐纳入 NHS（第三次）,2025-06-19,延缓轻度→中度进展 4-6 个月,约 296506（欧洲支付方视角测算）,45000,被拒报销，监管已批但 NHS 不买单,NICE 最终草案指南 / HIQA 成本效果分析,2025-06
+（同案对照）,donanemab,早期阿尔茨海默病,Eli Lilly,MHRA 批准上市,2024,NICE 最终草案不推荐纳入 NHS,2025-06-19,延缓轻度→中度进展 4-6 个月,约 371299（欧洲支付方视角测算）,45000,被拒报销,NICE 最终草案指南 / HIQA 成本效果分析,2025-06
+（美国对照价）,lecanemab,早期阿尔茨海默病,Eisai,FDA 已批（美国上市销售）,2023,—,—,—,—,—,美国列表价约每年 USD 26500，可销售,Eisai 美国定价公告,2023

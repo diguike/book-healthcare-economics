@@ -1,0 +1,9 @@
+company,ticker,type,fiscal_year,revenue,revenue_currency,revenue_yoy,gross_margin,gross_margin_basis,net_or_ebitda_margin,profit_margin_basis,backlog,backlog_currency,backlog_yoy,source,note
+药明康德 WuXi AppTec,603259.SS/2359.HK,一体化 CRO+CDMO,FY2024,392.41,亿元 RMB,-2.73%(剔新冠+5.2%),41.6%,调整后 non-IFRS,27.0%,调整后 non-IFRS 净利率(创新高),493.1,亿元 RMB,+47.0%,S1,2023 含新冠商业化大单致表观下滑
+药明康德 WuXi AppTec,603259.SS/2359.HK,一体化 CRO+CDMO,FY2025,454.6,亿元 RMB,+15.8%(持续经营+21.4%),48.2%,调整后 non-IFRS,32.9%,调整后 non-IFRS 净利率,580.0,亿元 RMB,+28.8%,S2,归母净利+102.6%；TIDES 板块+96.0% 驱动
+药明生物 WuXi Biologics,2269.HK,生物药 CRDMO,FY2025,218.0,亿元 RMB,+16.7%(持续经营+20%),46.0%,IFRS,IFRS 净利 57 亿/+45.3%,IFRS,NA,NA,NA,S3,EBITDA margin 41.5%；调整后毛利率 48.8%
+康龙化成 Pharmaron,300759.SZ/3759.HK,一体化 CRO+CDMO,FY2024,122.76,亿元 RMB,+6.39%,NA(年报口径待补),报告口径毛利,~14.6%,归母净利/营收(17.93/122.76 推算),NA,NA,NA,S7,归母净利 17.93 亿/+12.01%
+凯莱英 Asymchem,002821.SZ/6821.HK,小分子 CDMO,FY2024,58.05,亿元 RMB,-25.82%(剔除新冠大单+7.40%),47.95%,小分子 CDMO 业务毛利率,~16.3%,净利/营收(9.49/58.05 推算),NA,NA,NA,S8,2023 含新冠大单致高基数下滑
+Lonza,LONN.SW,生物药 CDMO,FY2024,66,亿瑞郎 CHF,-0.2%(CER,剔 mRNA 底层+7%),NA,CORE EBITDA 口径,29.0%,CORE EBITDA margin,NA,NA,NA,S4,CORE EBITDA CHF 19 亿；不与 net margin 直接比
+Samsung Biologics,207940.KS,生物药 CDMO,FY2024,45500,亿韩元 KRW(4.55万亿),+23%,NA,营业利润口径,~29%,营业利润率(1.32万亿/4.55万亿 推算),NA,NA,NA,S5,营业利润 KRW 1.32 万亿/+19%；服务 top20 药企 17 家
+Catalent,被收购退市,综合 CDMO,FY2024,~44,亿美元 USD,NA,NA,NA,NA,被收购前最后财年,NA,NA,NA,S6,2024-12-18 Novo Holdings EV~$165 亿私有化退市

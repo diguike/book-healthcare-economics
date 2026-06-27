@@ -1,0 +1,11 @@
+dimension,segment,loa_phase1_pct,note_cn,source
+病种,血液病(Hematology),23.9,14大病种中最高，约为实体瘤4倍多,BIO/Informa/QLS 2011-2020
+病种,传染病(Infectious Disease),13.2,含疫苗等项目，受新发传染病项目影响,BIO/Informa/QLS 2011-2020
+病种,全行业均值(All),7.9,9704个项目混合值，不可直接套单一管线,BIO/Informa/QLS 2011-2020
+病种,肿瘤(Oncology),5.3,实体瘤为主，临床失败率高,BIO/Informa/QLS 2011-2020
+模态,生物药(Biologics),9.1,整体高于小分子,BIO/Informa/QLS 2011-2020
+模态,新分子实体小分子(NME),5.7,低于生物药,BIO/Informa/QLS 2011-2020
+阶段推进率,Phase1→Phase2,52.0,一期到二期推进率,BIO/Informa/QLS 2011-2020
+阶段推进率,Phase2→Phase3,28.9,最低的一关——有效性证伪集中在二期,BIO/Informa/QLS 2011-2020
+阶段推进率,Phase3→申报(NDA/BLA),57.8,三期到申报推进率,BIO/Informa/QLS 2011-2020
+阶段推进率,申报→批准(Approval),90.6,申报到获批，最高的一关,BIO/Informa/QLS 2011-2020

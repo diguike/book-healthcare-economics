@@ -1,0 +1,9 @@
+drug_brand,generic_name,target_class,company,modality,peak_or_recent_sales_usd_bn,sales_year,us_loe_year,patent_book,erosion_type,gross_exposure_usd_bn,net_loss_note,in_2025_2030_window,source,verify_status
+Stelara,ustekinumab,IL-12/23,J&J,biologic,11.0,2023,2025,Purple Book,biosimilar(缓坡),11.0,生物类似药 2025 已上市；2023≈110亿→2027E≈30亿；J&J 2026Q1 免疫板块 reported -9%(操作口径 -12%),yes,Center for Biosimilars/Drug Channels/BioPharma Dive,verified
+Eliquis,apixaban,Factor Xa,BMS/Pfizer,small_molecule,14.4,FY2025(BMS端),2026,Orange Book,generic(悬崖),14.4,小分子仿制悬崖；实际节奏受专利和解+IRA 谈判价叠加,yes,BMS FY2025 业绩/WebSearch,partial
+Keytruda,pembrolizumab,PD-1,Merck,biologic,29.5,2024,2028,Purple Book,biosimilar(缓坡),25.0,gross exposure>250亿≠net loss；2028=composition-of-matter 到期；皮下版(pembrolizumab+berahyaluronidase)核心防守+40余用法专利,yes,Merck 10-K/DrugPatentWatch/PatSnap/BioSpace,verified
+Opdivo,nivolumab,PD-1,BMS,biologic,10.0,FY2025,2028,Purple Book,biosimilar(缓坡),10.0,与 Eliquis(2026)叠加压在窄窗口,yes,BMS FY2025 业绩,partial
+Lipitor,atorvastatin,HMG-CoA还原酶,Pfizer,small_molecule,12.9,2006,2011,Orange Book,generic(悬崖),12.9,历史对照：2006 峰值129亿→2012年底62亿（一年多腰斩）,no(历史对照),CNN Money 2011-11-30/DrugPatentWatch,verified
+Humira,adalimumab,TNF-alpha,AbbVie,biologic,21.2,2022,2023,Purple Book,biosimilar(缓坡),21.2,历史对照：金额比立普妥更高但侵蚀慢，靠专利丛林+合约；上市头年类似药未掀波澜,no(历史对照),BioPharma Dive/AJMC,verified
+Dupixent,dupilumab,IL-4/13,Sanofi/Regeneron,biologic,14.15,2024,2031,Purple Book,biosimilar(缓坡),0,FY2024 全球净销售 $14.15B(Regeneron/Sanofi 同口径)；不在2025-2030窗口（化合物专利约2031-03到期，订正E6）,no,Regeneron Q4 2024 新闻稿/Sanofi 6-K/FiercePharma,verified
+TOTAL_2025_2030_wall,,,multiple,mostly_biologic,200,to-2030,2025-2030,mixed,mixed,200,行业总额下沿口径>2000亿美元；上沿3000-4000亿不取做标题,yes,Evaluate Pharma(via BioPharma Dive),verified

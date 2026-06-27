@@ -1,0 +1,5 @@
+country,hta_body,assessor,decision_maker,price_negotiator,metric,threshold_or_logic,uses_qaly,notes,source,time_point
+英国,NICE,NICE 独立评估委员会,NICE,NHS England（商业谈判）,QALY / ICER,常规阈值每 QALY £20000-30000；2026-04 起升至 £25000-35000,是,严重程度修正 x1.2/x1.7（2022 引入，替代临终特例）；极罕见病走 HST 高阈值通道,NICE 方法学指南 / OHE / 英国政府公告,2025-12
+德国,AMNOG,IQWiG,G-BA,GKV-SV,附加获益 Zusatznutzen 六档,重大/可观/轻微/无法量化/未证明/更低,否,上市后自由定价窗口原 12 月，2022 GKV-FinStG 改革压到 6 月；未证明附加获益→按参考价组定价,G-BA / Simon-Kucher / Value&Dossier,2024
+法国,HAS,Commission de la Transparence,HAS,CEPS,双轴：SMR + ASMR,SMR 定报销比例 15/30/65/100%；ASMR 分 I-V 级定价筹码,否,SMR 决定报不报与报销比例；ASMR I（重大）至 V（无改善）决定与 CEPS 的议价空间,HAS / Global Legal Insights,2025
+欧盟,EU JCA,成员国协调组（HTACG）,各成员国（保留主权）,各成员国,联合临床有效性评估,仅统一临床证据，不统一定价/性价比判断,否,Regulation 2021/2282；2025-01-12 起生效，先覆盖肿瘤药+ATMP；与 EMA 审评并行,欧盟委员会 / Regulation 2021/2282,2025-01

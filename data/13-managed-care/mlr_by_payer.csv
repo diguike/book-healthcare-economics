@@ -1,0 +1,6 @@
+company,ticker,metric_name,fy2025_ratio_pct,fy2024_ratio_pct,yoy_change_bps,scope_note,source
+UnitedHealth Group,UNH,medical care ratio,89.1,85.5,360,reported 89.1; adjusted 88.9 (+340bps); driven by Medicare funding cuts + IRA + medical cost trend,UNH FY2025 release 2026-01-26
+Elevance Health,ELV,benefit expense ratio,90.0,88.5,150,higher morbidity in Individual & Medicaid post-redetermination,Elevance FY2025 release 2026-01-27
+CVS Health (Aetna),CVS,medical benefit ratio,91.2,92.5,-130,improved vs 2024; aided by favorable prior-year claim development,CVS FY2025 release
+The Cigna Group,CI,medical care ratio,84.4,83.2,120,lower base because MA divested; mostly commercial/employer + Individual,Cigna FY2025 release 2026-02-05
+Humana,HUM,Insurance segment benefit ratio,90.4,NA,NA,Q4 2025 benefit ratio 93.1; nearly pure Medicare Advantage,Humana FY2025 release 2026-02-11

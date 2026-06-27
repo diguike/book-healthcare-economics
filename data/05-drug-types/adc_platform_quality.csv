@@ -1,0 +1,4 @@
+adc,brand_name,generic_name,developer,target,payload,payload_class,dar,linker_type,bystander_effect,lead_indication,key_readout,differentiation_verdict,source
+enhertu,Enhertu,trastuzumab deruxtecan (T-DXd),第一三共/阿斯利康,HER2,DXd(依沙替康衍生物),拓扑异构酶I抑制剂,~7-8,可裂解四肽(溶酶体酶切),有,HER2低表达转移性乳腺癌,DESTINY-Breast04: OS 22.9 vs 16.8mo(HR0.69)/ORR~50% vs~16%,差异化(开辟HER2-low新患者群),S1;S2
+dato_dxd,Datroway/Dato-DXd,datopotamab deruxtecan,第一三共/阿斯利康,TROP2,DXd(依沙替康衍生物),拓扑异构酶I抑制剂,~4,可裂解四肽,有,非小细胞肺癌(既往治疗),TROPION-Lung01: PFS达标(HR0.75)但全人群OS未显著(12.9 vs 11.8mo HR0.94 p=0.530),部分(全人群OS未达/仅非鳞亚组),S3
+note,,,,,,,,,,,同平台同payload不同靶点/适应症->临床命运不同;判断ADC价值需拆五点而非看是否ADC标签,R1(G10)

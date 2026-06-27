@@ -1,0 +1,10 @@
+item,fiscal_year,pathway,outcome,value_or_rule,note,source
+AeroPace 系统（Lungpacer，膈肌起搏装置）,FY2026,获 NTAP（突破性器械/替代通道）,获批,每例 NTAP 上限 $23650.90，按成本 65% 计，2025-10-01 生效,具体单例加成金额案例；公告口径，fact-check 阶段对 CMS FY2026 终规附表交叉,Lungpacer 2025-08-14 公告
+NTAP 加成比例（通用规则）,FY2020 起,规则,生效,新技术成本的 65% 或案例超 MS-DRG 部分的 65%（二者取低）,2019-10 由原 50% 上调至 65%；CMS 称 50% 封顶不足以激励,CMS New Tech 页 / MMP FY2020 终规 / Holland & Knight
+QIDP 抗感染产品加成比例,FY2020 起,规则,生效,75%（高于一般器械的 65%）,合格抗感染产品（Qualified Infectious Disease Product）专档,CMS FY2020 IPPS 终规 / Holland & Knight
+NTAP 持续期限,通用,规则,生效,最长 3 年（约 FDA 批准后新颖性窗口，待 CMS 把成本校准进 MS-DRG）,到期取消、并回常规打包价（"NTAP 悬崖"）,Avalere NTAP 释义 / CMS New Tech 页
+门诊 transitional pass-through 期限,通用,规则,生效,至少 2 年、最多 3 年，付器械成本超 APC 部分,到期后并入常规 OPPS 费率,CMS Pass-Through / New Technology APC 页
+FY2026 NTAP 传统通道,FY2026,传统通道,5/13 获批,13 份申请→批 5 份（过会率约 38%）,需自证"实质性临床改善"，门槛高,CMS FY2026 IPPS 终规 / McDermott+ 整理
+FY2026 NTAP 替代通道,FY2026,突破性器械/QIDP 替代通道,22/34 获批,34 份申请→批 22 份（20 突破性器械 + 2 QIDP，过会率约 65%）,豁免"实质性临床改善"举证；过会率显著高于传统通道,CMS FY2026 IPPS 终规 / McDermott+ 整理
+突破性器械替代通道（拟取消）,FY2027 拟议,政策变量,未定（拟议规则）,2026-04-14 拟议取消 NTAP 替代通道，另设 RAPID 覆盖路径,截至 data_cutoff 未定稿；列为失效触发器，非既成事实,Ropes & Gray 2026-05 评述 / McDermott+
+机器人辅助手术（对照：无加成）,通用,无独立加成,设施费层面不另付,按基础腹腔镜术式打包付费，机器人辅助零增量付费,"技术领先也因没有码饿死"的反向案例；设备+耗材全为医院成本,Intuitive 编码报销指南 / AAPC 机器人编码

@@ -1,0 +1,17 @@
+vaccine_brand,vaccine_inn_or_type,disease_prevented,company,ticker,vaccine_class,metric,value,currency,usd_approx_bn,yoy_or_note,fiscal_year,caliber,source_id,verify_status
+Gardasil/Gardasil 9,HPV vaccine,HPV-related cervical/anal cancers,Merck & Co.,MRK,prophylactic,product_sales,3.9,USD_bn,3.9,baseline,FY2020,franchise net sales,S6,verified
+Gardasil/Gardasil 9,HPV vaccine,HPV-related cancers,Merck & Co.,MRK,prophylactic,product_sales,5.7,USD_bn,5.7,rising,FY2021,franchise net sales,S6,verified
+Gardasil/Gardasil 9,HPV vaccine,HPV-related cancers,Merck & Co.,MRK,prophylactic,product_sales,6.9,USD_bn,6.9,rising,FY2022,franchise net sales,S6,verified
+Gardasil/Gardasil 9,HPV vaccine,HPV-related cancers,Merck & Co.,MRK,prophylactic,product_sales,8.9,USD_bn,8.9,peak,FY2023,franchise net sales (peak),S6,verified
+Gardasil/Gardasil 9,HPV vaccine,HPV-related cancers,Merck & Co.,MRK,prophylactic,product_sales,8.6,USD_bn,8.6,-3%,FY2024,franchise net sales,S6,verified
+Gardasil/Gardasil 9,HPV vaccine,HPV-related cancers,Merck & Co.,MRK,prophylactic,product_sales,5.2,USD_bn,5.2,-39% (China halt),FY2025,franchise net sales,S5,verified
+Shingrix,recombinant adjuvanted zoster vaccine,herpes zoster (shingles),GSK,GSK,prophylactic,product_sales,3.6,GBP_bn,4.6,+8% (Europe +42%),FY2025,GBP-to-USD ~1.27 approx,S2,verified
+Prevnar family,pneumococcal conjugate (PCV13/PCV20),pneumococcal disease,Pfizer,PFE,prophylactic,product_sales,6.5,USD_bn,6.5,~10% of PFE revenue,FY2025,franchise net sales,S3,verified
+Comirnaty,mRNA COVID-19 vaccine,COVID-19,Pfizer/BioNTech,PFE/BNTX,prophylactic,product_sales,36.8,USD_bn,36.8,pandemic,FY2021,Pfizer direct+alliance,S4,verified
+Comirnaty,mRNA COVID-19 vaccine,COVID-19,Pfizer/BioNTech,PFE/BNTX,prophylactic,product_sales,37.8,USD_bn,37.8,peak,FY2022,Pfizer direct+alliance (peak),S4,verified
+Comirnaty,mRNA COVID-19 vaccine,COVID-19,Pfizer/BioNTech,PFE/BNTX,prophylactic,product_sales,4.4,USD_bn,4.4,~7% of PFE revenue,FY2025,Pfizer direct+alliance,S3,verified
+Spikevax,mRNA COVID-19 vaccine,COVID-19,Moderna,MRNA,prophylactic,product_sales,3.1,USD_bn,3.1,prior year,FY2024,product sales,S7,verified
+Spikevax (Moderna total),mRNA COVID-19 vaccine,COVID-19,Moderna,MRNA,prophylactic,total_revenue,1.9,USD_bn,1.9,mostly Spikevax,FY2025,company total revenue,S7,verified
+mRESVIA,mRNA RSV vaccine,RSV (older adults),Moderna,MRNA,prophylactic,product_sales,0.025,USD_bn,0.025,minimal,FY2024,product sales (negligible 2025),S7,verified
+Spikevax (Moderna total),mRNA COVID-19 vaccine,COVID-19,Moderna,MRNA,prophylactic,total_revenue,19.3,USD_bn,19.3,peak; Spikevax ~18.4,FY2022,company total revenue (peak),S12,verified
+Fluzone/Vaxigrip (flu franchise),seasonal influenza vaccine,seasonal influenza,Sanofi,SNY,prophylactic,product_sales,2.555,EUR_bn,2.76,-1.3% (FY full year; NOT Q3-only 1.913),FY2024,flu vaccines full-year net sales; EUR-to-USD ~1.08 approx,S13,verified

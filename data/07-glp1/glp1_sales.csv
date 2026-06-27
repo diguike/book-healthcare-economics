@@ -1,0 +1,21 @@
+company,ticker,brand,molecule_inn,indication,metric,value,currency,usd_approx,yoy_growth,fiscal_year,caliber,share_basis_note,source_id,verify_status
+Eli Lilly,LLY,Mounjaro,tirzepatide,type2_diabetes,product_net_sales,22.965,USD_bn,22.965,+99%,FY2025,10-K分产品净销售额(销售额口径),非处方量口径,S2,verified
+Eli Lilly,LLY,Mounjaro,tirzepatide,type2_diabetes,us_net_sales,13.651,USD_bn,13.651,NA,FY2025,10-K US口径,销售额口径,S2,verified
+Eli Lilly,LLY,Mounjaro,tirzepatide,type2_diabetes,intl_net_sales,9.315,USD_bn,9.315,NA,FY2025,10-K intl口径,销售额口径,S2,verified
+Eli Lilly,LLY,Zepbound,tirzepatide,obesity,product_net_sales,13.542,USD_bn,13.542,+175%,FY2025,10-K分产品净销售额(销售额口径),非处方量口径,S2,verified
+Eli Lilly,LLY,Zepbound,tirzepatide,obesity,us_net_sales,13.484,USD_bn,13.484,NA,FY2025,10-K US口径,销售额口径,S2,verified
+Eli Lilly,LLY,Zepbound,tirzepatide,obesity,intl_net_sales,0.058,USD_bn,0.058,NA,FY2025,10-K intl口径,销售额口径,S2,verified
+Eli Lilly,LLY,Mounjaro+Zepbound,tirzepatide,combined,product_net_sales,36.5,USD_bn,36.5,NA,FY2025,合计约数=56%总营收,销售额口径,S2;T8,verified
+Novo Nordisk,NVO,Ozempic,semaglutide,type2_diabetes,product_net_sales,127.089,DKK_bn,19.0,+6%_DKK,FY2025,年报分产品(销售额口径),非处方量口径;DKK约6.7/USD,S4,verified
+Novo Nordisk,NVO,Wegovy,semaglutide,obesity,product_net_sales,79.106,DKK_bn,11.8,more_than_doubled,FY2025,年报分产品(销售额口径),非处方量口径;DKK约6.7/USD,S4,verified
+Novo Nordisk,NVO,Ozempic+Wegovy,semaglutide,combined,product_net_sales,206.195,DKK_bn,30.8,NA,FY2025,合计约数,销售额口径;低于替尔泊肽合计,S4,verified_arithmetic
+Eli Lilly,LLY,(company total),NA,all,total_revenue,65.179,USD_bn,65.179,+45%,FY2025,10-K全年总营收;全球药企营收第一(超默克约$169M),公司层,S1;S2;T8,verified
+Eli Lilly,LLY,(company guidance),NA,all,revenue_guidance_2026,80.0-83.0,USD_bn,81.5,NA,FY2026_guidance,公司指引含价格假设,公司层,S1,verified
+Novo Nordisk,NVO,(company total),NA,all,total_revenue,309.064,DKK_bn,45.9,+10%_CER,FY2025,年报净销售,公司层,S3,verified
+Novo Nordisk,NVO,(company total),NA,all,net_profit,102.434,DKK_bn,15.2,+1%,FY2025,年报净利润,公司层,S3,verified
+Novo Nordisk,NVO,(company total),NA,all,gross_margin,81.0,pct,NA,from_84.7_in_2024,FY2025,年报毛利率,公司层,S3,verified
+Novo Nordisk,NVO,(company guidance),NA,all,sales_op_profit_guidance_2026,-5_to_-13,pct_CER,NA,rare_decline_not_labeled_first,FY2026_guidance,含约$4.2B 340B返利冲回;不写first无法独立核实,公司层,S3;T9,verified
+Eli Lilly,LLY,(market cap),NA,NA,market_cap,1.077,USD_tn,1.077,NA,2026-06,companiesmarketcap口径(约$1.07T 2026-06-12);首家破万亿制药公司,公司层,T1;T3;T4,verified_multi_source
+Novo Nordisk,NVO,(market cap),NA,NA,market_cap,0.1971,USD_tn,0.1971,NA,2026-06-12,companiesmarketcap口径(一度跌破$2000亿;月末回升$211-215B),公司层,T2;T3,verified_multi_source
+Novo Nordisk,NVO,(market cap peak),NA,NA,market_cap_peak,0.64,USD_tn,0.64,NA,2024-06,峰值;欧洲市值最高上市公司;含所有股类市值口径,公司层,T2;T7,verified
+US_market,NA,tirzepatide,tirzepatide,obesity_GLP1,us_new_rx_share,~60,pct,NA,NA,2025,处方量口径(多数份额,约六成);销售额口径无统一拆分,处方量口径,research;T8,directional_no_precise_pct

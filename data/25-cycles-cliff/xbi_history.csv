@@ -1,0 +1,10 @@
+event,date,xbi_price_usd,note,source,verify_status
+all_time_high,2021-02-09,174.79,历史最高收盘价（等权重 biotech ETF）,Yahoo Finance XBI 历史日线,verified
+cycle_low_2023,2023-10-19,67.09,2021-02 高点后的周期低点收盘价；盘中低 66.91,BioCentury 2023-10 报道,verified
+peak_to_trough_drawdown,2021-02-09_to_2023-10-19,,约 -61.6%（174.79→67.09 收盘）,Yahoo + BioCentury,verified
+prior_low_2022,2022-05-11,62.81,2022-05 前低（曾被误并入 2023-10 低点，已订正：原 63.80 实为 2022 前低附近混淆）,Seeking Alpha/etf.com 转引,partial
+annual_return_2019,2019,,+32.56%（总回报）,Yahoo Finance XBI performance,verified
+annual_return_2020,2020,,+48.33%（总回报）,Yahoo Finance XBI performance,verified
+annual_return_2021,2021,,-20.45%,research/historical-cycles 汇总,unverified
+annual_return_2022,2022,,-25.87%,research/historical-cycles 汇总,unverified
+inception,2006,,XBI 2006 年成立，2021-2023 回撤为成立以来最深最长,SSGA,partial

@@ -1,0 +1,11 @@
+stage,stage_cn,survivors_approx,gate_pass_rate,gate_note,source
+discovery_screen,发现与筛选（候选化合物）,5000-10000,—,每5000–10000个被筛化合物中最终约1个上市,PhRMA / IFPMA innovation journey
+preclinical,临床前（动物与体外）,~250,—,经典漏斗：约250个进入临床前,"PhRMA / DiMasi 经典5000→250→5→1"
+ind_into_clinic,进入临床（IND获批后）,~5,—,约5个进入人体试验,"PhRMA / DiMasi 经典漏斗"
+phase1,临床一期,1.000,0.520,Phase I→II 推进率52%,"BIO/Informa/QLS 2011-2020"
+phase2,临床二期,0.520,0.289,Phase II→III 推进率28.9%（全程最低的一关）,"BIO/Informa/QLS 2011-2020"
+phase3,临床三期,0.150,0.578,Phase III→申报(NDA/BLA) 推进率57.8%,"BIO/Informa/QLS 2011-2020"
+filing,监管申报(NDA/BLA),0.087,0.906,申报→获批率90.6%,"BIO/Informa/QLS 2011-2020"
+approval,获批上市,0.079,—,自一期算起总获批概率(LOA)=7.9%,"BIO/Informa/QLS 2011-2020"
+loa_oncology,（对照）肿瘤药一期LOA,0.053,—,肿瘤药自一期算起仅5.3%,"BIO/Informa/QLS 2011-2020"
+loa_biologic,（对照）生物药一期LOA,0.091,—,生物药9.1% > 小分子新分子实体5.7%,"BIO/Informa/QLS 2011-2020"

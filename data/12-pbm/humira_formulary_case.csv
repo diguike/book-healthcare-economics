@@ -1,0 +1,9 @@
+date,event,metric,value,note,verified,source
+2023-01,Humira美国生物类似药首次上市,生物类似药处方份额,约0%,"Amgen的Amjevita 2023-01上市，但首年几乎无放量——专利到期≠崩盘",verified,"AbbVie 8-K/BioSpace"
+2023-Q4,生物类似药放量缓慢,Humira美国Q4净销售环比,2.8B美元(同比-45%),"对比2022-Q4约50亿美元；侵蚀真实但温和",verified,"AbbVie 8-K"
+2024-01-03,CVS Caremark宣布移出处方集,公告生效日,2024-04-01,"CVS Caremark宣布自4/1将Humira移出主要全国商业模板处方集，优先生物类似药",verified,"CVS Caremark/Healio 2024-01-05"
+2024-04-01,正式移出主处方集,首选生物类似药,Hyrimoz/adalimumab-adaz,"CVS为唯一也是首家在主处方集踢出Humira的PBM；部分模板含Hadlima",verified,"Center for Biosimilars/PSG"
+2024-Q2,处方快速切换,adalimumab生物类似药处方份额,由约5%跃升至约36%,"CVS移出后数周内biosimilar处方份额激增，Hyrimoz领跑——节奏由处方集而非专利决定",verified,"Center for Biosimilars/GaBI/BioSpace"
+2024-Q4,Humira美国销售陡降,Humira美国Q4净收入,12.46亿美元(同比-54.5%),"PBM一出手，侵蚀从温水变陡崖；全球Q4 16.82亿(-49.1%)",verified,"AbbVie Q4 2024 Earnings Release 2025-01-31"
+2024-FY,全年口径,Humira全球净收入2024,约89.9亿美元,"对比2022峰值约212亿美元",verified,"AbbVie 8-K/BioSpace"
+2024-11,生物类似药整体渗透,adalimumab生物类似药月度份额(2024-11),约23%,"Hyrimoz约13%；处方份额(占新处方)与销售额份额口径不同，前者更高",verified,"AJMC/Samsung Bioepis biosimilar report"

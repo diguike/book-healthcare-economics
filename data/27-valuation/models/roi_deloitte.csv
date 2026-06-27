@@ -1,0 +1,12 @@
+metric,value,unit,year,scope,nature,note,source
+forecast_irr_inaugural,10.1,percent,2010,Deloitte top-20 cohort,prediction,"首期口径,just over 10%",Deloitte 2024 report (S3)
+forecast_irr_local_low,1.5,percent,2019,Deloitte top-20 cohort,prediction,"局部低点(非历史最低)",Deloitte 2024 report (S3)
+forecast_irr_trough,1.2,percent,2022,Deloitte top-20 cohort,prediction,"12年历史最低点",Deloitte 2024 report (S3)
+forecast_irr_latest,5.9,percent,2024,Deloitte top-20 cohort,prediction,"连续第二年回升(2023年4.1%/2024年5.9%)",Deloitte 2024 report (S3)
+forecast_irr_ex_glp1,3.8,percent,2024,Deloitte top-20 cohort,prediction,"剔除GLP-1资产后;单一机构/特定样本/预测值",Deloitte 2024 report (S3/T5)
+avg_peak_sales_per_asset,510,USD_million,2024,Deloitte top-20 cohort,prediction,"含GLP-1",Deloitte 2024 report (S3)
+avg_peak_sales_per_asset_ex_glp1,370,USD_million,2024,Deloitte top-20 cohort,prediction,"剔除GLP-1后",Deloitte 2024 report (S3/T5)
+avg_cost_to_market,2229,USD_million,2024,Deloitte top-20 cohort,fact_estimate,"发现到上市平均成本",Deloitte 2024 report (S3)
+late_stage_assets_1b_plus,111,count,2024,Deloitte top-20 cohort,fact_estimate,"峰值预测>$1B的晚期资产数",Deloitte 2024 report (S3)
+terminated_asset_trial_cost,7.7,USD_billion,2024,Deloitte top-20 cohort,fact_estimate,"终止资产的临床试验沉没成本",Deloitte 2024 report (S3)
+</content>

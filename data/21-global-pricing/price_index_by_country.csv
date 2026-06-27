@@ -1,0 +1,11 @@
+country,drug,product,monthly_list_price_usd,index_us_100,time_point,fx_basis,source,caliber_note
+美国 US,司美格鲁肽 semaglutide,Ozempic（糖尿病）,936,100,2023-06,2023-06-30 汇率,Peterson-KFF Health System Tracker,list price 列表价非净价
+日本 JP,司美格鲁肽 semaglutide,Ozempic（糖尿病）,169,18,2023-06,2023-06-30 汇率,Peterson-KFF Health System Tracker,US 价约为日本 5.5 倍
+英国 UK,司美格鲁肽 semaglutide,Ozempic（糖尿病）,94,10,2023-06,2023-06-30 汇率,Peterson-KFF Health System Tracker,US 价约为英国 10 倍；法国/瑞典/澳同档
+美国 US,司美格鲁肽 semaglutide,Wegovy（减重）,1349,100,2023-06,2023-06-30 汇率,Peterson-KFF Health System Tracker,维持剂量月费 list price
+德国 DE,司美格鲁肽 semaglutide,Wegovy（减重）,328,24,2023-06,2023-06-30 汇率,Peterson-KFF Health System Tracker,list price
+荷兰 NL,司美格鲁肽 semaglutide,Wegovy（减重）,296,22,2023-06,2023-06-30 汇率,Peterson-KFF Health System Tracker,list price
+中国 CN,司美格鲁肽 semaglutide,Wegovy（减重，诺和盈）,194,14,2024-11,2024-11 上市口径,CSRxP 引诺和诺德中国上市（二手）,较 US list 低逾 85%；二手来源需复核
+美国 US,替尔泊肽 tirzepatide,Mounjaro,1023,100,2023-06,2023-06-30 汇率,Peterson-KFF Health System Tracker,list price
+日本 JP,替尔泊肽 tirzepatide,Mounjaro,319,31,2023-06,2023-06-30 汇率,Peterson-KFF Health System Tracker,list price
+荷兰 NL,替尔泊肽 tirzepatide,Mounjaro,444,43,2023-06,2023-06-30 汇率,Peterson-KFF Health System Tracker,list price

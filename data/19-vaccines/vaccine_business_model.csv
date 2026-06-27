@@ -1,0 +1,18 @@
+company,ticker,model,role,key_product,metric,value,currency,period,note,source_id,verify_status
+智飞生物,300122.SZ,agency,代理默沙东HPV/肺炎疫苗在华独家经销,Gardasil 9 (代理),agent_segment_revenue,43.7,CNY_100m,H1 2025,同比骤降约75%,S8,verified
+智飞生物,300122.SZ,agency,代理,默沙东四价HPV (代理),batch_issuance_doses,0,wan_doses,H1 2025,2024H1为46.6万支,S8,verified
+智飞生物,300122.SZ,agency,代理,默沙东九价HPV (代理),batch_issuance_doses,423.9,wan_doses,H1 2025,同比-76.8% (2024H1为1827.2万支),S8,verified
+智飞生物,300122.SZ,agency,代理,默沙东HPV采购协议,procurement_2024,326.26,CNY_100m,2024,2023-2026累计约980亿基础采购额,S8,verified
+智飞生物,300122.SZ,agency,代理,默沙东HPV采购协议,procurement_2025,260.33,CNY_100m,2025,刚性采购,S8,verified
+智飞生物,300122.SZ,agency,代理,默沙东HPV采购协议,procurement_2026,178.92,CNY_100m,2026,刚性采购,S8,verified
+智飞生物,300122.SZ,agency,代理,公司层面,net_profit_warning_low,-106.98,CNY_100m,FY2025,业绩预告下限,S9,verified
+智飞生物,300122.SZ,agency,代理,公司层面,net_profit_warning_high,-137.26,CNY_100m,FY2025,业绩预告上限;归母净利同比-630%~-780%,S9,verified
+万泰生物,603392.SS,in-house,自研二价/九价HPV+体外诊断,二价/九价HPV (自研),total_revenue,18.19,CNY_100m,FY2025,同比-18.99%,S10,verified
+万泰生物,603392.SS,in-house,自研,公司层面,net_profit,-3.98,CNY_100m,FY2025,上市以来首亏;同比-474.89%,S10,verified
+万泰生物,603392.SS,in-house,自研,疫苗板块,vaccine_segment_revenue,4.57,CNY_100m,FY2025,同比-24.63%;毛利率27.25% (-43.18pct),S10,verified
+万泰生物,603392.SS,in-house,自研,二价HPV (免疫规划),tender_price,27.5,CNY_per_dose,2025,纳入免疫规划中标价;较上市初329元跌超90%,S10,verified
+万泰生物,603392.SS,in-house,自研,九价HPV (自研),approval,2025-06,date,2025,国内首款/全球第二款九价;当年未形成利润,S10,verified
+沃森生物,300142.SZ,in-house,自研多价疫苗(13价肺炎为主),HPV相关无形资产,impairment,7629.51,CNY_10k,FY2025,计提减值,S11,verified
+Merck & Co.,MRK,in-house+commercial,自研自销,Gardasil 9,china_action,halt shipments,NA,2025,2025-02起暂停对华发货,全年未恢复;撤回110亿美元销售目标,S5,verified
+Merck & Co.,MRK,in-house+commercial,自研自销,Gardasil 9,company_total_revenue,65.0,USD_bn,FY2025,+1%;Gardasil占比下降,S5,verified
+中国HPV/国产九价,NA,domestic_competition,国产九价上市定价冲击,国产九价HPV,price_per_dose,499,CNY_per_dose,2025,约为进口Gardasil 9的六折,S1,verified

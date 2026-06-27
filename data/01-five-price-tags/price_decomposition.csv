@@ -1,0 +1,8 @@
+layer,layer_en,value_usd_per_month,definition,who_captures_the_gap,disclosed,time_point,source_id,verify_status
+列表价,list_price_WAC,1349.02,药企对外公布的官方挂牌价(WAC),谈判起点,yes,2023-08/现行,S1;S3,verified
+净价,net_price,proxy_499,列表价扣除返利rebate后药企实得,药企实得(返利让给PBM/支付方),no_estimate_only,2025,S1;T3,proxy_only_not_disclosed
+返利价差,rebate_and_spread,gap_undisclosed,列表价与净价之间的差额,PBM等中间环节截留,no,现行,T3;T4,not_disclosed
+自付_有保险覆盖,oop_insured_covered,0-25,有商业保险且计划覆盖+优惠券,患者实付,yes,2025,S2,verified
+自付_现金,oop_cash_self_pay,499,保险不覆盖走NovoCare现金自付,患者实付,yes,2025,S1,verified
+自付_无保险,oop_uninsured,1349.02,无保险无优惠券,患者实付(≈列表价),yes,现行,S1,verified
+列表价新政,list_price_new,675,2027-01起新列表价,谈判起点(返利对冲使净价基本不变),yes,2027-01_effective,T3;T4,verified

@@ -1,0 +1,6 @@
+country,pricing_authority,who_sets_price_type,main_price_control_tools,launch_order,price_spillover_direction,one_line_pricing_power,source
+美国 US,无单一主体：药企标价 + PBM 返利谈判（私营）+ Medicare IRA 谈判（2026 起，仅部分药）,卖方主导（manufacturer-led）,PBM 处方集/返利/价差；IRA 谈判（Part D/B）；商业保险博弈,全球最早（多数新药首发地）,对外几乎不参照他国，自身高价被他国 ERP 向下参照；MFN 提案拟反向引入外价,定价权在卖方与 PBM——全球唯一的 price maker,RAND 2024-02；CMS;FTC
+中国 CN,国家医保局（NHSA）单一超级买方,单一买方主导（monopsony）,带量采购（VBP 集采）；医保谈判（乙类灵魂砍价）；丙类/双通道,较晚（多在欧美日之后数年）,基本游离于全球 ERP 篮子之外；集采价极低但少被外引,定价权在唯一的政府买方——用采购量换降价,NHSA;研究汇总
+日本 JP,厚生劳动省 MHLW / 中医协 Chuikyo 统一官方定价,政府统一定价（government-set）,年度药价改定（全面+中間年）；新薬創出加算；外国平均価格調整 FAP；市場拡大再算定,滞后（price taker，常晚于欧美）,FAP 把美英德法均价引入境内（向内参照）；自身低价又喂入他国篮子,定价权在政府——药企是 price taker，价格锚定外国均价,PMDA NHI Drug Price System;IQVIA 2021
+欧洲 EU,各国 HTA 机构 + 跨国 ERP 网络 + 平行进口,价值守门人 + 参照网络,HTA（英 NICE QALY 阈值/德 AMNOG/法 HAS）；外部参考定价 ERP；平行进口；EU 联合 HTA（2025）,中等（德国最快约 126 天，南欧/东欧最长超 1200 天）,内部 ERP 互相参照形成价格篮子，整体向下拉低 ex-US 全球价,定价权在 HTA 性价比门槛与 ERP 网络——欧洲是全球的价格篮子,EFPIA WAIT 2024;LSE/PMC ERP 综述
+印度 IN,政府价格管制 NPPA + 专利制度,国家价格管制 + IP 强制,药价管制令 DPCO/NPPA 上限价；专利强制许可；Section 3(d) 反 evergreening；Jan Aushadhi,最晚或缺位（高价专利药常被本土仿制替代）,全球最低；强制许可与廉价仿制经出口向下外溢,定价权在国家——以专利强制许可与限价令压低价格,印度专利局 2012 Natco vs Bayer;DPCO

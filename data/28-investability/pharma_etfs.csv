@@ -1,0 +1,8 @@
+etf_ticker,full_name,tracked_index,weighting_method,aum,holdings_count,top10_concentration_pct,top_holdings_example,risk_profile,timepoint,source
+XBI,SPDR S&P Biotech ETF,S&P Biotechnology Select Industry Index,修正等权(modified equal weight),US$10.25B,157,13.3,单股最高约1.55%(Apogee/Kymera/Twist等),中小盘高beta;表达板块情绪;涨跌都猛,2026-06-25,S10
+IBB,iShares Biotechnology ETF,NYSE Biotechnology Index(原NBI->ICE->NYSE),修正市值加权(单股8%上限),US$7.84B,253,45.27,Vertex 8.13%/Amgen 8.01%/Gilead 7.23%/Regeneron 5.19%,大盘生物药主导;波动远小于XBI,2026-06-26,T1
+ARKG,ARK Genomic Revolution ETF,无(主动管理),主动选股(ARK团队),US$1.26B,33,60.75,Twist 9.20%/Tempus AI 7.26%/CRISPR 7.03%,基因组学主题;高集中度;规模从峰值约90亿萎缩,2026-06,T2
+HSHKBIO相关,恒生生物科技指数追踪ETF(约10只),恒生生物科技指数,流通市值加权(单股10%上限),约US$1.5B(全市场合计),30(指数成分),58.6,头部18A创新药公司,境内借道港股配置中国创新药;对头部临床/交易消息敏感,2026-02,T3
+中证全指医药卫生ETF(广发版),广发中证全指医药卫生ETF,中证全指医药卫生指数,完全复制(市值加权),约61亿元(2025Q4),指数全成分,需自查,恒瑞医药约11.07%/药明康德约9.34%,A股医药龙头宽基,2025Q4,T4
+中证创新药产业指数ETF(515120等),跟踪中证创新药产业指数,中证创新药产业指数(931152),完全复制,规模碎片/产品间差异大(需自查),指数成分,需自查,创新药产业链成分,A股创新药主题;配置前逐只看最新季报,2026Q1,research
+NBI(参考指数),NASDAQ Biotechnology Index,—,修正市值加权(8%上限,前5保留/其余≤4%),—,251,—,—,IBB曾跟踪;现已改NYSE Biotechnology Index,2026,research

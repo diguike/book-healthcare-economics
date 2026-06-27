@@ -1,0 +1,5 @@
+company,ticker,type,ev_ebitda,ev_sales,forward_pe,market_cap_usd_b,as_of,source,note
+Medtronic,MDT,成熟龙头,12.21,3.39,13.54,103.47,2026-06-26,stockanalysis.com,增长温和现金流稳定,EV/EBITDA主导
+Stryker,SYK,成熟+Mako成长,20-23,,22.42,,2026-03,GuruFocus/stockanalysis.com,EV/EBITDA约22.6(10年中位25.8);trailing约20.25
+Intuitive Surgical,ISRG,高成长medtech,44.29,15.72,~40,,2026-03~04,ValueInvesting.io/GuruFocus/Yahoo,EV/EBITDA 2026-03-26;EV/Rev 2026-04-26;EBITDA已解释不动估值,EV/Sales+管线主导
+note,,,,,,,,倍数随市价每日变动仅作框架示意;成熟龙头看EV/EBITDA(现金流),高成长medtech看EV/Sales+管线兑现,rNPV不适用器械

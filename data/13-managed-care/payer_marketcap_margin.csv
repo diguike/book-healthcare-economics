@@ -1,0 +1,6 @@
+company,ticker,market_cap_usd_bn,market_cap_date,fy2025_revenue_usd_bn,insurance_segment,insurance_seg_op_earnings_usd_bn,insurance_seg_op_earnings_note,pbm_services_segment,pbm_services_op_earnings_usd_bn,group_net_income_usd_bn,source
+UnitedHealth Group,UNH,384.95,2026-06-26,447.6,UnitedHealthcare,9.4,vs 15.6 in FY2024; segment revenue 344.9,Optum (Rx/Health/Insight),9.5,12.1,UNH FY2025 8-K/press release 2026-01-26; market cap stockanalysis.com 2026-06-26
+Elevance Health,ELV,84.6,2026-06-26,197.6,Health Benefits,4.2,operating result down ~33% YoY,Carelon (incl CarelonRx),NA,5.7,Elevance FY2025 release 2026-01-27; Becker's; market cap stockanalysis.com 2026-06-26
+CVS Health,CVS,132.71,2026-06-26,402.1,Health Care Benefits (Aetna),2.9,adjusted operating income; vs 0.307 in FY2024,Caremark (PBM) + Pharmacy & Consumer Wellness,NA,NA,CVS FY2025 release; market cap stockanalysis.com 2026-06-26
+The Cigna Group,CI,74.77,2026-06-26,274.9,Cigna Healthcare,4.153,adjusted pre-tax income from operations; MA business divested,Evernorth Health Services,7.221,NA,Cigna FY2025 release 2026-02-05 (PRNewswire); market cap stockanalysis.com 2026-06-26
+Humana,HUM,45.2,2026-06-26,129.664,Insurance (Medicare Advantage heavy),NA,Q4 2025 GAAP net loss 0.796,CenterWell (pharmacy/home/clinics),NA,1.203,Humana FY2025 release 2026-02-11; market cap stockanalysis.com 2026-06-26

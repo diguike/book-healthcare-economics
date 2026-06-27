@@ -1,0 +1,6 @@
+biomarker,biomarker_cn,gate_type,positivity_rate,representative_drug_brand,representative_drug_generic,target,indication_scope,cdx_name,cdx_vendor,cdx_technology,first_cdx_year,source_ref
+PD-L1,程序性死亡配体1,soft(连续富集),约30%高表达(TPS≥50%,西方NSCLC),Keytruda,pembrolizumab,PD-1,多癌种(NSCLC一线等),PD-L1 IHC 22C3 pharmDx,Agilent/Dako,IHC免疫组化,2015,S1;S11
+MSI-H/dMMR,微卫星高度不稳定/错配修复缺陷,soft(泛瘤种),跨瘤种少数(转移性结直肠癌约4-5%),Keytruda,pembrolizumab,PD-1,泛瘤种(2017首个组织不可知批准),FoundationOne CDx 等,Roche/Foundation Medicine,NGS/IHC/PCR,2017,S9;S13
+HER2,人表皮生长因子受体2,semi-hard(分级判读),乳腺癌约15-20%阳性,Herceptin/Enhertu,trastuzumab/trastuzumab deruxtecan,HER2,乳腺癌/胃癌(含HER2低表达扩展),HercepTest;VENTANA HER2,Agilent/Dako;Roche,IHC+FISH,1998,S10;S15
+EGFR mutation,表皮生长因子受体突变,hard(二元随人种变),西方约10-15%/东亚约40-60%,Tagrisso,osimertinib,EGFR,EGFR突变NSCLC,cobas EGFR Mutation Test v2,Roche,PCR/液体活检,2013,S8
+KRAS G12C,KRAS第12位点突变,hard(二元点突变),NSCLC约13%,Lumakras,sotorasib,KRAS G12C,KRAS G12C突变NSCLC(主要二线),NGS/PCR基因检测,多家(含FoundationOne CDx),NGS/PCR,2021,S6

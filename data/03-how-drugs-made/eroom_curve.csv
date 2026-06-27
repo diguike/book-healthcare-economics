@@ -1,0 +1,21 @@
+# Eroom 定律曲线数据
+# 定义（E4 口径，必须照此写正文）：每10亿美元 R&D（通胀调整后）能获批的新药数量，约每9年减半（效率减半）。
+# 1950→2010 约60年间，每10亿美元 R&D 产出的新药数下降约80倍（部分文献表述为约百倍）。
+# 来源：Scannell, Blanckley, Boldon, Warrington, "Diagnosing the decline in pharmaceutical R&D efficiency",
+#       Nature Reviews Drug Discovery 11, 191–200 (2012).
+# 说明：下表 index 列是按"每9年减半"规则、以1950年=100 归一化的【示意复原值】（stylized），
+#       用于画教学示意曲线，不是 Scannell 原文逐年抓取的精确散点。两个硬锚点（每9年减半、1950→2010约80倍）取自原文。
+year,new_drugs_per_bn_usd_index_1950eq100,basis,note
+1950,100.0,halving-rule stylized,起点归一化为100
+1959,50.0,halving-rule stylized,约9年减半
+1968,25.0,halving-rule stylized,约9年减半
+1977,12.5,halving-rule stylized,约9年减半
+1986,6.25,halving-rule stylized,约9年减半
+1995,3.13,halving-rule stylized,约9年减半
+2004,1.56,halving-rule stylized,约9年减半
+2010,1.25,anchor (≈80x decline),与"1950→2010下降约80倍"硬锚点一致(100/80=1.25)
+# 后续更新点（非 Scannell 2012 原文，标注来源）：
+# 2010s 多项分析提出 Eroom 曲线可能在2010年后触底/小幅回升，但未形成共识。
+# 参考：Ringel et al., "Breaking Eroom's Law", Nature Reviews Drug Discovery 19, 833-834 (2020)（提出生产率出现改善迹象）。
+# 参考：Deloitte 年度《Measuring the return from pharmaceutical innovation》——R&D 内部回报率(IRR)
+#       自2019年谷底1.5%回升至2024年5.9%、2025年7.0%，但剔除 GLP-1 后分别降至3.8%、2.9%（口径见 sources.md）。

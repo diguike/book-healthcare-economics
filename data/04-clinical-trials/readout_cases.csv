@@ -1,0 +1,6 @@
+drug,company,ticker,trial,phase,is_pivotal,sample_n,duration,primary_endpoint,endpoint_type,result,ci_95,readout_date,interim_or_final,region,market_reaction,note_cn,source
+CagriSema,Novo Nordisk,NVO,REDEFINE 1 (NCT05567796),Phase 3,yes,3417,68周,体重百分比变化,硬终点(减重),减重22.7%(trial product estimand;treatment policy 20.4%) vs 安慰剂2.3%,未单列,2024-12-20,final(顶线),全球,股价单日跌约20%(盘中-22%),主要终点达成但低于管理层约25%目标/卖方约27%预期——成功却暴跌,S1/T5
+ivonescimab,Summit/Akeso,SMMT/9926.HK,HARMONi-2,Phase 3,yes,398,随访中,无进展生存期PFS,替代终点,mPFS 11.14 vs 5.82月 HR≈0.51,HR约0.51,2024-09-08(详细),interim,中国单一区域,SMMT 2024全年+约577%(YTD),头对头胜Keytruda但PFS/interim/中国数据，OS未成熟,S3
+rentosertib,Insilico Medicine,未上市,GENESIS-IPF,Phase 2a,no,71,12周,FVC相对基线变化,替代终点,60mgQD组+98.4mL vs 安慰剂-20.3mL,10.9-185.9mL,2025-06-03(发表),final(2a),中国22中心,未上市/一级,95%CI下限10.9贴零；单一阳性读出不能背书,S2
+resmetirom(Rezdiffra),Madrigal,MDGL,MAESTRO-NASH,Phase 3,yes,~966,约52周,肝纤维化改善/MASH消退,替代终点,达成两项替代终点,未单列,2024-03-14(获批),加速审批,全球,首个MASH药获批,加速审批基于替代终点，需确证试验验证临床获益,S5
+bevacizumab(Avastin),Genentech/Roche,RHHBY,E2100等,Phase 3,yes,~700,随访中,无进展生存期PFS,替代终点,初始PFS获益确证试验未复现,未单列,2011-11-18(撤回),确证后撤,全球,适应症被撤,2008基于PFS加速批准乳腺癌，2011确证失败撤回该适应症,S4

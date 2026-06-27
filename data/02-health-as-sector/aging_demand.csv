@@ -1,0 +1,8 @@
+economy,pop_65plus_pct,year,life_expectancy_years,le_year,source,note
+Japan,29.6,2023,,,世界银行 Population ages 65 and above,全球最老经济体
+Germany,23.0,2023,,,世界银行 Population ages 65 and above,约值
+France,22.0,2023,,,世界银行 Population ages 65 and above,约值
+United States,17.7,2023,78.4,2023,世界银行;OECD HaG 2025,人均预期寿命2024回升约79岁;低于OECD均值约2岁
+OECD average,18.0,2023,80.4,2023,OECD Health at a Glance 2025,约值-待fact-check
+China,14.3,2023,,,世界银行;RAND中国老龄化研究,绝对水平不高但爬升极快
+India,7.0,2023,,,世界银行 Population ages 65 and above,约值

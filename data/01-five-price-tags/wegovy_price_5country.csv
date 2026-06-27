@@ -1,0 +1,19 @@
+country,brand,dose,price_tier,local_currency,local_price,usd_per_month,time_point,fx_basis,pricing_mechanism,source_id,verify_status
+US,Wegovy,2.4mg maintenance,list_price_WAC,USD,1349.02,1349,2023-08,native_USD,药企报价+PBM返利博弈,S1;S3,verified_multi_source
+US,Wegovy,multi-dose,cash_self_pay,USD,499,499,2025,native_USD,NovoCare直购现金自付,S1;T3,verified
+US,Wegovy,multi-dose,cash_self_pay,USD,349,349,2026-01,native_USD,NovoCare直购现金自付(降价后),S1;T3,verified
+US,Wegovy,2.4mg,list_price_new,USD,675,675,2027-01_effective,native_USD,新列表价(返利对冲),T3;T4,verified
+US,Wegovy,2.4mg,insured_out_of_pocket,USD,,0-25,2025,native_USD,商业保险覆盖+优惠券,S2,verified
+DE,Wegovy,2.4mg maintenance,self_pay_retail,USD,328,328,2023-08,native_USD,减重适应症被GKV排除(Lifestyle-Arzneimittel)患者自费,S3;S7,verified
+NL,Wegovy,2.4mg maintenance,list_price,USD,296,296,2023-08,native_USD,参考定价,S3,verified_unused_in_text
+CN,诺和盈,2.4mg(3ml 4针),retail_self_pay,CNY,2706,381,2024-11,USD/CNY=7.1,不进医保+院外自费零售,T1,needs_recheck_ecommerce
+CN,诺和盈,0.25mg(1.5ml 4针),retail_self_pay,CNY,1396,197,2024-11,USD/CNY=7.1,院外自费零售,T1,needs_recheck_ecommerce
+CN,诺和盈,1.7mg(3ml 4针),retail_self_pay,CNY,2126,299,2024-11,USD/CNY=7.1,院外自费零售,T1,needs_recheck_ecommerce
+CN,诺和盈,"3.2mg/ml,3ml",local_vbp_winning,CNY,1284.36,181,2025,USD/CNY=7.1,云南/四川地方集采中选价,S5;T2,needs_recheck_tender
+CN,诺和盈,"2.27mg/ml,3ml",local_vbp_winning,CNY,987.48,139,2025,USD/CNY=7.1,云南/四川地方集采中选价,S5;T2,needs_recheck_tender
+JP,ウゴービ,2.4mg maintenance,NHI_list_monthly,JPY,42960,277,2024-02,USD/JPY=155,政府统一定价NHI价目,S4,needs_recheck_official_NHI
+JP,ウゴービ,2.4mg maintenance,patient_30pct_copay,JPY,12888,83,2024-02,USD/JPY=155,NHI三成自付,S4,verified_arithmetic
+JP,ウゴービ,2.4mg per pen,NHI_list_per_pen,JPY,10740,69,2024-02,USD/JPY=155,NHI单支药价,S4,needs_recheck_official_NHI
+IN,Wegovy,2.4mg maintenance,launch_retail,INR,26015,306,2025-06,USD/INR=85,自由市场上市价,T6,needs_recheck_NPPA
+IN,Wegovy,starting dose,launch_retail,INR,17345,204,2025-06,USD/INR=85,自由市场上市价,T6,needs_recheck_NPPA
+IN,Wegovy,0.25mg,price_cut,INR,10850,128,2025-11,USD/INR=85,自由市场降价(最高33%),T5,needs_recheck_reuters
